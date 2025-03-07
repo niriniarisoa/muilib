@@ -4,7 +4,7 @@ import React from 'react';
 const Home: React.FC = () => {
   return (
     <div>
-      <h1>Bienvenue sur la page d'accueil</h1>
+      <h1>HomePage</h1>
       <p>Ceci est un exemple de page.</p>
     </div>
   );
